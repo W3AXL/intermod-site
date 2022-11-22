@@ -1,0 +1,10 @@
+# Venv
+python/bin
+python/lib
+python/lib64
+python/pyvenv.cfg
+python/share
+python/include
+
+# VS Code
+.vscode
